@@ -1,6 +1,5 @@
-# Hello 👋
-I'm Demir. I am a Node.js and Python developer, my projects at [here](https://github.com/demirdegerli?tab=repositories).
-
+# Hello there 👋
+I'm Demir. I am a Turkish developer and student. I've been using Node.js and Python commonly to make projects, my projects at [here](https://github.com/demirdegerli?tab=repositories).
 
 [![discord-profile](https://lanyard-profile-readme.vercel.app/api/793854348449939477)](https://discord.com/users/793854348449939477)
 
