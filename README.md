@@ -11,7 +11,7 @@ I'm Demir. I am a Turkish developer and student. I've been using Node.js and Pyt
 [![Reddit](https://img.shields.io/badge/reddit-ff4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/demir09)
 [![Twitter](https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/demirdegerli)
 [![npm](https://img.shields.io/badge/npm-eb3528.svg?&style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/~demirdegerli)
-<a rel="me" href="https://mastodon.social/@demirdegerli">![Mastodon](https://img.shields.io/badge/mastodon-595aff.svg?&style=for-the-badge&logo=mastodon&logoColor=white)</a>
+[![Mastodon](https://img.shields.io/badge/mastodon-595aff.svg?&style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@demirdegerli)
 
 [![demir09's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=demirdegerli&theme=dark&count_private=true&show_icons=true&hide_border=true)](#)
 [![demir09's Github stats](https://github-readme-stats.vercel.app/api?username=demirdegerli&count_private=true&show_icons=true&theme=dark&hide_border=true)](#)
